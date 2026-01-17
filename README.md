@@ -22,7 +22,7 @@ Tai nạn giao thông liên quan đến rượu bia là một trong những nguy
 Dự án được thực hiện trong khuôn khổ môn học **Tương tác Người – Máy (HCI)**, mang tính **nghiên cứu – học thuật – thực nghiệm UX/UI**.
 | Giao diện người dùng | Giao diện đặt |
 |:---:|:---:|
-| ![Giao diện](Services/Resources/giaodienngdung.png) | ![Đặt xe](Services/Resources/giaodiendat.png) |
+| ![Giao diện](giaodienngdung.png) | ![Đặt xe](Services/Resources/giaodiendat.png) |
 
 ---
 
